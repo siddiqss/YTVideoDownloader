@@ -1,7 +1,6 @@
 #! YouTube Videos Downloader Python Script - For Educational Purpose only
 # This script can search any video on YouTube
-# Select any Format for video and
-# Download it on your risk.
+# Select any Format for video and Download
 # Use this for educational purpose only!
 # This script was developed by Talha Siddique
 
